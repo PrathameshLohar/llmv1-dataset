@@ -1,0 +1,2 @@
+
+ Interviewer Martin Pankaj says he's bankrupt and is working on a dataprocessing and analytics system . He says he prefers to actually use python most of the timesince it's more compact and precise . "You are given a 2d metric pleasewrite a function that returns number of islands in agiven matrixisland"

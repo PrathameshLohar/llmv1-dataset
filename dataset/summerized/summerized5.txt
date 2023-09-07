@@ -1,0 +1,3 @@
+
+ Applereleased the developer tools for visionOS just yesterday and I thought we wouldtake a look together at what this thingis really capable of and what the UI isgoing to look like . I installed anumber of the sample applications sothat we can get a feel for what's reallypossible with vision OS and thesorts of applications that apple isimagining that we might develop .
+   
